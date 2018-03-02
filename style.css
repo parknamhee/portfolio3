@@ -144,7 +144,7 @@
   .container {
     width: 960px;
   }
-  #about { width: 960px; height: 500px;}
+  #about { width: 960px; }
   .row_box {width: 960px;}
   .row_box2 {width: 960px;}
   #footer {width: 960px; }
@@ -163,7 +163,7 @@
   .title p { font-size: 18px; color: #fff; margin-bottom: 20px; letter-spacing: 5px;}
   .title h1 {color: #fff; font-size: 50px; letter-spacing: 15px; font-weight: normal; text-indent: 28px;}
   .text { color: #fff; font-size: 12px; padding: 16px 20px; margin-top: 40px; display: inline-block; line-height: 20px;}
-  #about { width: 480px; height: 300px;}
+  #about { width: 480px;}
   .row_box {width: 480px;}
   .row_box a {width: 50%;}
   .row_box2 {width: 480px;}
