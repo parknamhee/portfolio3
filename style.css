@@ -57,7 +57,7 @@
 }
 
 /* title */
-#about { height: 740px; background-image: url(scene_2.jpg); background-size: cover; background-attachment: fixed; background-position: 50% 50%; text-align: center;}
+#about { height: 740px; background-image: url(scene_2.jpg); background-size: cover; background-attachment: fixed; text-align: center;}
 .title {  padding-top: 165px; font-family: 'Satisfy', cursive;}
 .title p { font-size: 22px; color: #fff; margin-bottom: 20px; letter-spacing: 10px;}
 .title h1 {color: #fff; font-size: 70px; letter-spacing: 30px; font-weight: normal; text-indent: 28px;}
