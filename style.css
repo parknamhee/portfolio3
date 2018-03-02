@@ -166,8 +166,11 @@ background-image: url(scene_2.jpg); background-size: cover;  text-align: center;
   .title h1 {color: #fff; font-size: 50px; letter-spacing: 15px; font-weight: normal; text-indent: 28px;}
   .text { color: #fff; font-size: 12px; padding: 16px 20px; margin-top: 40px; display: inline-block; line-height: 20px;}
   .row_box {width: 480px;}
+  .row_box a {width: 50%;}
   .row_box2 {width: 480px;}
+  .row_box2 a {width: 50%;}
   .img_banner li {width: 100%; }
+  .img_banner li:last-child {display: none;}
 
   #footer {width: 480px; }
   .call {margin-top: 50px; }
