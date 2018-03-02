@@ -140,12 +140,14 @@
   }
   .container1 {
     width: 960px;
-    background: url(scene_2.jpg);
+    background-image: url(scene_2.jpg) ;
+    background-size: cover;
+    background-position: 50% 50%;
   }
   .container {
     width: 960px;
   }
-  #about { background: none;}
+  #about { width: 960px;}
   .row_box {width: 960px;}
   .row_box2 {width: 960px;}
   #footer {width: 960px; }
@@ -156,9 +158,6 @@
 
   .container1 {
     width: 480px;
-    background-image: url(scene_2.jpg) ;
-    background-size: cover;
-    background-position: 50% 50%;
   }
   .container {
     width: 480px;
