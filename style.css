@@ -57,8 +57,8 @@
 }
 
 /* title */
-#about {background-attachment: fixed; background-image: url(scene_2.jpg) ; background-size: cover;  text-align: center;}
-.title {  padding-top: 165px; no-font-family: 'Satisfy', cursive;}
+#about {background-attachment: fixed; background-image: url(scene_2.jpg) ; background-size: cover; background-position: 50% 50%; text-align: center;}
+.title {  padding-top: 165px; font-family: 'Satisfy', cursive;}
 .title p { font-size: 22px; color: #fff; margin-bottom: 20px; letter-spacing: 10px;}
 .title h1 {color: #fff; font-size: 70px; letter-spacing: 30px; font-weight: normal; text-indent: 28px;}
 .text { color: #fff; font-size: 14px; padding: 16px 20px; margin-top: 40px; display: inline-block; line-height: 20px;}
@@ -148,6 +148,10 @@
     width: 960px;
   }
   #about { width: 960px;}
+  .title {  padding-top: 55px; font-family: 'Satisfy', cursive;}
+  .title p { font-size: 18px; color: #fff; margin-bottom: 20px; letter-spacing: 5px;}
+  .title h1 {color: #fff; font-size: 50px; letter-spacing: 15px; font-weight: normal; text-indent: 28px;}
+  .text { color: #fff; font-size: 12px; padding: 24px 20px; margin-top: 10px; display: inline-block; line-height: 20px;}
   .row_box {width: 960px;}
   .row_box2 {width: 960px;}
   #footer {width: 960px; }
